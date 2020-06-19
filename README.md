@@ -14,6 +14,4 @@
 
 -> templates contains index.html file as web app skeleton
 
-### NOTES: The web app is non-functional. Model integration with web app using flask proving to be problem. 
-Solutions are welcome via Issues or Pull Requests. I believe incorrect Jinja2 and AJAX syntax usage is the problem.
-Also, canvas is not getting painted. Unfamiliarity with canvas usage is issue. Help required to correct it.
+###### NOTES: The web app is non-functional. Model integration with web app using flask proving to be problem. Solutions are welcome via Issues or Pull Requests. I believe incorrect Jinja2 and AJAX syntax usage is the problem.Also, canvas is not getting painted. Unfamiliarity with canvas usage is issue. Help required to correct it.
